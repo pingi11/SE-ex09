@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="de.tud.cs.se.flashcards.model.learning.LearningStrategiesTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2019-01-19T11:23:56" hostname="x493.vpn.hrz.tu-darmstadt.de" time="0.572">
+  <properties/>
+  <testcase name="test" classname="de.tud.cs.se.flashcards.model.learning.LearningStrategiesTest" time="0.572"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
