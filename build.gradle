@@ -20,6 +20,10 @@ plugins {
     id "com.github.spotbugs" version "1.6.9"
 }
 
+checkstyle {
+    configFile = file("${rootDir}/checkstyle.xml")
+}
+
 
 spotbugs {
     ignoreFailures = false
