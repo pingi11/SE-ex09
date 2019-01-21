@@ -14,7 +14,7 @@ plugins {
     id 'application'
 
     // Apply checkstyle
-    //id 'checkstyle'
+    id 'checkstyle'
 
     // Apply spotbugs
     id "com.github.spotbugs" version "1.6.9"
